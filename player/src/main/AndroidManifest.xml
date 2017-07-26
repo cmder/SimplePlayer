@@ -13,6 +13,7 @@
         android:name=".PlayerApplication">
         <activity
             android:name=".PlayerActivity"
+            android:screenOrientation="landscape"
             android:configChanges="orientation|keyboardHidden|screenSize" />
     </application>
 
