@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="exo_back" type="id"/>
+    <item name="exo_title" type="id"/>
+    <item name="exo_info" type="id"/>
+    <item name="exo_play_big" type="id"/>
+    <item name="exo_pause_big" type="id"/>
+    <item name="exo_bottom_controller" type="id"/>
+    <item name="exo_controller_underlay" type="id"/>
+</resources>
